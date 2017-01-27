@@ -13,6 +13,7 @@
 		53FB6B2B1E3A7DC60047B599 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 53FB6B2A1E3A7DC60047B599 /* Assets.xcassets */; };
 		53FB6B2E1E3A7DC60047B599 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 53FB6B2C1E3A7DC60047B599 /* LaunchScreen.storyboard */; };
 		53FB6B391E3A7DC60047B599 /* You_Are_Awesome_Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53FB6B381E3A7DC60047B599 /* You_Are_Awesome_Tests.swift */; };
+		53FB6B451E3C12CB0047B599 /* BFoleyHW02.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 53FB6B431E3C12CB0047B599 /* BFoleyHW02.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		53FB6B341E3A7DC60047B599 /* You Are Awesome!Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "You Are Awesome!Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		53FB6B381E3A7DC60047B599 /* You_Are_Awesome_Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = You_Are_Awesome_Tests.swift; sourceTree = "<group>"; };
 		53FB6B3A1E3A7DC60047B599 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		53FB6B441E3C12CB0047B599 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/BFoleyHW02.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				53FB6B231E3A7DC60047B599 /* AppDelegate.swift */,
 				53FB6B251E3A7DC60047B599 /* ViewController.swift */,
 				53FB6B271E3A7DC60047B599 /* Main.storyboard */,
+				53FB6B431E3C12CB0047B599 /* BFoleyHW02.storyboard */,
 				53FB6B2A1E3A7DC60047B599 /* Assets.xcassets */,
 				53FB6B2C1E3A7DC60047B599 /* LaunchScreen.storyboard */,
 				53FB6B2F1E3A7DC60047B599 /* Info.plist */,
@@ -181,6 +184,7 @@
 			files = (
 				53FB6B2E1E3A7DC60047B599 /* LaunchScreen.storyboard in Resources */,
 				53FB6B2B1E3A7DC60047B599 /* Assets.xcassets in Resources */,
+				53FB6B451E3C12CB0047B599 /* BFoleyHW02.storyboard in Resources */,
 				53FB6B291E3A7DC60047B599 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -237,6 +241,14 @@
 				53FB6B2D1E3A7DC60047B599 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		53FB6B431E3C12CB0047B599 /* BFoleyHW02.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				53FB6B441E3C12CB0047B599 /* Base */,
+			);
+			name = BFoleyHW02.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
